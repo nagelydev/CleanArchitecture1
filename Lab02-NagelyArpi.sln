@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab02-NagelyArpi", "Lab02-NagelyArpi\Lab02-NagelyArpi.csproj", "{B87B94C6-4C3E-46B2-AA8B-23E3A8FDE397}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B87B94C6-4C3E-46B2-AA8B-23E3A8FDE397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87B94C6-4C3E-46B2-AA8B-23E3A8FDE397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87B94C6-4C3E-46B2-AA8B-23E3A8FDE397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87B94C6-4C3E-46B2-AA8B-23E3A8FDE397}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@Lab02_NagelyArpi_HostAddress = http://localhost:5101
+
+GET {{Lab02_NagelyArpi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
